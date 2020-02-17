@@ -83,38 +83,20 @@ Interviewee 1:
   
   ========================================
     
-  Interviewee 5: Celine
+  Interviewee 5:
   Who was interviewed and who participated in the interview?
-  
-  Celine Ramos, a nursing student living in Los Angeles, CA.
   
   When?
   
-  February 11, 2020
-  
   Consumer Segment
-  
-  Celine sees a need for this app for new students of any level just getting used to a new campus.
   
   Key Insights
   
-  The use of social media can help students become more engaged in their student body and community.
-  
   Representative Quotes
-  
-  “I would love to use this app on my current campus. The nursing school on campus is kind of segregated from the rest of the school so   it would be nice to know what was going on daily.”
-
   
   Hypotheses that were validated
   
-  Student life can be made much more convenient using this app.
-  
   Assesment
-  Must Have: Social connection to other students/clubs
-  
-  Nice to have: Ability to see other amenities on campus. i.e Bus routes, operating hours of facilities
-  
-  Don't Care: Email integration with professors/staff
   
   ========================================
     
@@ -171,18 +153,22 @@ Interviewee 1:
     
   Interviewee 9:
   Who was interviewed and who participated in the interview?
-  
+   - Parker Marschel, junior studying computer science at NAU
   When?
-  
+    - February 15, 2020
   Consumer Segment
-  
+    - Parker is a upperclassmen
+    - He believed our best consumer segment would be the incoming freshman especially those coming from out of state
+    - Also for foreign exchange students, they’d be able to meet other students easier
   Key Insights
-  
+    - He believed that upperclassmen would probably use it more for making study groups and that a messaging service would be a               necessity.
   Representative Quotes
-  
+    - “Being able to message other students based on the same interests or clubs would be a very useful tool for newer students to the       college”
   Hypotheses that were validated
-  
+  - His views on the Consumer segment matched our hypothesis
   Assesment
+    - Nice to Have
+      - Wouldn’t be a necessity for Parker but he views as if when he was a freshman he probably would of tried it out. But that he             didnt absolutely need it.
   
   ========================================
     
